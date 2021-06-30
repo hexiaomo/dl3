@@ -9,7 +9,7 @@ const {CookieAccessInfo, CookieJar, Cookie} = cookiejar
 
 let config = {
     httpprefix: 'https', port: 443,
-    serverName: 'proxy3.vercel.app',
+    serverName: 'dl3.now.sh',
 }
 let blockedSites = ['merlinblog.xyz']
 
